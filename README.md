@@ -1,2 +1,1 @@
-# previous-live-class-revision
-november 2021 batch revision
+Full Stack Data Science BootCamp 2.0
